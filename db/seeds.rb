@@ -7,8 +7,7 @@ Thought.create! (
       guid: "123"
     },
     {
-      text: "
-If Rick & Morty fans were as smart as they think they are, they would have figured out how to make their own Szechuan sauce rather than falling for a silly marketing ploy",
+      text: "If Rick & Morty fans were as smart as they think they are, they would have figured out how to make their own Szechuan sauce rather than falling for a silly marketing ploy",
       guid: "123123"
     },
     {

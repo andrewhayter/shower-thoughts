@@ -1,1 +1,1 @@
-json.extract! @thought, :id, :text, :guid
+json.extract! @thought, :id, :text
