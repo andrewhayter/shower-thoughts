@@ -1,1 +1,1 @@
-json.extract! @thought, :id, :text
+json.extract! @thought, :id, :text, :next_id, :previous_id
