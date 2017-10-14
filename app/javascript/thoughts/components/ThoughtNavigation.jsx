@@ -5,7 +5,7 @@ const ThoughtNavigation = (props) => {
   let element = null
   if (props.direction === 'previous') {
     element = (
-      <Link className='link-previous' to={`/thought=${props.otherThoughtId}`}>
+      <Link className='link-previous' to={`/?thought=${props.otherThoughtId}`}>
         <i className='fa fa-angle-left' aria-hidden='true'><span /></i>
       </Link>
     )
